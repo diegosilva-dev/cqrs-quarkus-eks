@@ -1,1 +1,1 @@
-Criando um sistema de orçamento, utilizando CQRS, Quarkus, Kafka e deploy no EKS
+Sistema de orÃ§amento, utilizando CQRS, Quarkus, Kafka e deploy no EKS
